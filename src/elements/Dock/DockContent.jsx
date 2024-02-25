@@ -70,7 +70,7 @@ const DockContent = () => {
 								</li>
 							</a> */}
 							<a
-								href="https://minimalinfo.vercel.app/"
+								href="https://mirror-product-be5.notion.site/ad1b04fdae9e409983d079bdb57edd29?pvs=74"
 								target="_blank"
 							>
 								<li data-title="Minimal Info">
